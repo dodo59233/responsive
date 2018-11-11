@@ -204,6 +204,7 @@ input[type=submit] {
     width: 34%;
     padding: 10px 6%;
     box-sizing: border-box;
+    margin-top: 0;
   }
 
   .flex{
