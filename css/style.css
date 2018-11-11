@@ -68,6 +68,7 @@ footer{
 
 .flex{
     display: flex;
+    align-items: center;
 }
 
 .bg-article{
@@ -121,12 +122,12 @@ footer{
 }
 
 .image-article-secondaire{
-    width: 55%;
+    width: 50%;
 }
 
 .contenu-article-secondaire{
-    width: 63%;
-    padding: 0 12px;
+    width: 50%;
+    padding: 0 10px;
 }
 
 .contenu-article-secondaire h2{
