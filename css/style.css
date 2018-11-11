@@ -157,3 +157,30 @@ input[type=submit] {
     width: 51%;
     margin-bottom: 20px;
 }
+
+
+
+@media screen and (min-width: 640px) {
+  .container{
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  .bg-article{
+    padding: 83px 35px 0px 60px;
+    width: 65%;
+  }
+
+  .flex-desktop{
+    display: flex;
+  }
+
+  .bg-article div{
+    padding: 20px 34px;
+    margin-top: 150px;
+  }
+
+  .article-right{
+    width: 35%;
+  }
+}
