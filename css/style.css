@@ -116,6 +116,11 @@ footer{
     background-color: #5c6bc0;
 }
 
+  .bloc-articles article{
+    margin-top: 20px;
+  }
+
+
 .image-article-secondaire{
     width: 100%;
 }
@@ -180,10 +185,6 @@ input[type=submit] {
 
   .flex-desktop{
     display: flex;
-  }
-
-  .bloc-articles article{
-    margin-top: 20px;
   }
 
   .bg-article div{
