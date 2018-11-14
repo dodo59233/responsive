@@ -165,7 +165,7 @@ input[type=submit] {
 }
 
 
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 800px) {
 
    h1{
     margin-bottom: 19px;
@@ -234,7 +234,7 @@ input[type=submit] {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1200px) {
     .container{
     width: 55%;
   }
