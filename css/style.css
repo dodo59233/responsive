@@ -41,6 +41,11 @@ li{
     list-style: none;
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
 nav ul{
     display: flex;
     width: 167px;
