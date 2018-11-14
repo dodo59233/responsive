@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MIW 2015 - Exo 1</title>
     <link rel="stylesheet" href="css/style.css">
-    <!--
-    Code d'exemple non-optimisé... Exo 1.
-    -->
 </head>
 
 <body>
@@ -17,8 +14,8 @@
             <img src="img/qwant_fonds-1440x1000-1080x608.png">
             <nav>
                 <ul>
-                    <li>ACCUEIL</li>
-                    <li>CONTACT</li>
+                    <li><a href="#">ACCUEIL</a></li>
+                    <li><a href="#formulaire">CONTACT</a></li>
                 </ul>
             </nav>
         </header>
@@ -92,7 +89,7 @@
             </div>
             <div class="bloc-form">
                 <h3>Contactez-nous</h3>
-                <form action="#">
+                <form action="#" id="formulaire">
                     <label for="nom">Nom :</label>
                     <input type="text" id="nom" />
                     <br />
