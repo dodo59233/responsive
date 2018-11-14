@@ -67,6 +67,11 @@ footer{
     height: 50px;
 }
 
+header a:hover{
+    background: #37474f;
+    color: #fff;
+}
+
 .container{
     width: 100%;
 }
