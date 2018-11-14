@@ -165,7 +165,6 @@ input[type=submit] {
 }
 
 
-
 @media screen and (min-width: 640px) {
 
    h1{
@@ -173,12 +172,12 @@ input[type=submit] {
    }
 
   .container{
-    width: 55%;
+    width: 100%;
     margin: 0 auto;
   }
 
   .bg-article{
-    padding: 83px 35px 0px 60px;
+    padding: 8px 35px 0px 35px;
     width: 66%;
     box-sizing: border-box;
   }
@@ -188,9 +187,9 @@ input[type=submit] {
   }
 
   .bg-article div{
-    padding: 20px 51px;
-    margin-top: 207px;
-    line-height: 27px;
+    padding: 14px 40px;
+    margin-top: 100px;
+    line-height: 23px;
     width: 57%;
   }
 
@@ -232,5 +231,18 @@ input[type=submit] {
     font-size: 16px;
     margin-top: 0;
     line-height: 23px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+    .container{
+    width: 55%;
+  }
+
+  .bg-article div{
+    padding: 14px 40px;
+    margin-top: 100px;
+    line-height: 23px;
+    width: 57%;
   }
 }
