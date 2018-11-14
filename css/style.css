@@ -67,7 +67,7 @@ footer{
     height: 50px;
 }
 
-header a:hover{
+header ul li:hover{
     background: #37474f;
     color: #fff;
 }
