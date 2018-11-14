@@ -173,7 +173,7 @@ input[type=submit] {
    }
 
   .container{
-    width: 60%;
+    width: 55%;
     margin: 0 auto;
   }
 
@@ -189,8 +189,8 @@ input[type=submit] {
 
   .bg-article div{
     padding: 20px 51px;
-    margin-top: 142px;
-    line-height: 30px;
+    margin-top: 207px;
+    line-height: 27px;
     width: 57%;
   }
 
